@@ -1,6 +1,7 @@
 <h1>Olá, sou Eduardo Hessmann Rohleder!</h1>
 <h2>Sobre Mim</h2>
-Sou um estudante apaixonado por tecnologia. Minha busca incessante por conhecimento e aprendizado contínuo é o que impulsiona meu trabalho.
+
+Sou um estudante apaixonado por tecnologia. Minha busca incessante por conhecimento e aprendizado contínuo é o que me impulsiona.
 
 Atualmente, estou no último ano do Ensino Médio integrado com Desenvolvimento de Sistemas na Escola SESI/SENAI. Estou aprimorando tanto minhas hard skills quanto soft skills, além de adquirir conhecimentos práticos essenciais para a minha futura carreira nesta área.
 
@@ -26,8 +27,8 @@ Este é um momento crucial na minha jornada, marcado pelo desejo de aplicar os c
 
 <h2>Projetos</h2>
 <ul>
-  <li><b>eCO2You:</b> Plataforma de gerenciamento de recicláveis, que integra os principais agentes da cadeia de reciclagem *Entra21*</li>
-  <li><b>TextilTech:</b> Aplicação que permite otimizar a cadeia de suprimentos das indústrias têxteis por meio da junção das maquinas e suas respectivas normas em um só lugar *SENAI*</li>
+  <li><b>eCO2You:</b> Plataforma de gerenciamento de recicláveis, que integra os principais agentes da cadeia de reciclagem</li>
+  <li><b>TextilTech:</b> Aplicação que permite otimizar a cadeia de suprimentos das indústrias têxteis por meio da junção das maquinas e suas respectivas normas em um só lugar</li>
 </ul>
 <hr>
 
