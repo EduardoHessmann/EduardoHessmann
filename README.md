@@ -3,7 +3,8 @@
 
 Sou um estudante apaixonado por tecnologia. Minha busca incessante por conhecimento e aprendizado contínuo é o que me impulsiona.
 
-Atualmente, estou no último ano do Ensino Médio integrado com Desenvolvimento de Sistemas na Escola SESI/SENAI. Estou aprimorando tanto minhas hard skills quanto soft skills, além de adquirir conhecimentos práticos essenciais para a minha futura carreira nesta área.
+Atualmente, finalizei o Ensino Médio integrado com Desenvolvimento de Sistemas na Escola SESI/SENAI. Aprimorei tanto minhas hard skills quanto soft skills, além de que adiquiri conhecimentos práticos essenciais para a minha futura carreira nesta área.
+Estou começando na Graduação, fazendo Ciências da Computação na FURB de Blumenau, atualmente estou no 1° semestre, e pretendo continuar me aprefeiçoando e me dedicando nessa nova jornada e novos desafios.
 
 Este é um momento crucial na minha jornada, marcado pelo desejo de aplicar os conhecimentos adquiridos e dar os primeiros passos na minha carreira profissional.
 
@@ -16,12 +17,14 @@ Este é um momento crucial na minha jornada, marcado pelo desejo de aplicar os c
 <h4>Principais Ferramentas:</h4>
 <ul>
   <li>Eclipse IDE</li>
+  <li>Visual Studio Code</li>
   <li>MySQL</li>
 </ul>
 </section>
 <h4>Framework:</h4>
 <ul>
   <li>Hibernate</li>
+  <li>React Native - Básico</li>
 </ul>
 <hr>
 
